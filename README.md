@@ -1,5 +1,5 @@
 # SmartBrain-api - v1
-Final project for Udemy course
+
 
  Run `npm install`
  Run `npm start`
